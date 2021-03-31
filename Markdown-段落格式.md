@@ -28,4 +28,4 @@ ___粗斜体文本___</pre>
 <pre>[^要注明的文本]
 创建脚注格式类似这样 [^RUNOOB]。
 [^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！</pre>
-[Markdown-标题](/jerryborn.github.io/Markdown-标题.html)
+[Markdown-标题](https://jerryborn.github.io/Markdown-标题.html)
